@@ -5,11 +5,11 @@ on:
       KERNEL_SUFFIX:
         description: '内核名称修改(可改中文和emoji)'
         required: true
-        default: '-android15-8-g302cb15749a8-ab13157299-4k'
+        default: '-android15-8-g0261dbe3cf7e-ab12786384-4k'
       KERNEL_TIME:
        description: "内核构建日期更改(默认为原厂)"
        required: true
-       default: 'Tue Mar 4 09:04:13 UTC 2025'
+       default: 'Wed Dec 11 19:16:38 UTC 2024'
       enable_feature_x:
        description: "是否启用kpm"
        required: false
